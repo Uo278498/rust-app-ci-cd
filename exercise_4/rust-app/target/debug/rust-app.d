@@ -1,0 +1,1 @@
+C:\Users\javig\OneDrive\Escritorio\Practicas2025\exercise-javier-gonzalez\exercise_4\rust-app\target\debug\rust-app.exe: C:\Users\javig\OneDrive\Escritorio\Practicas2025\exercise-javier-gonzalez\exercise_4\rust-app\src\main.rs
