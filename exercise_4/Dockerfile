@@ -5,7 +5,7 @@ FROM rust:latest
 WORKDIR /app
 
 # Copy the project files to the container
-COPY ./rust-app /app
+COPY ./exercise_4/rust-app /app
 
 # Build the Rust application
 RUN cargo build --release
