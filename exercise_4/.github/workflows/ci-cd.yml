@@ -3,7 +3,7 @@ name: CI/CD Pipeline for Rust Application
 on:
   push:
     branches:
-      - solutions
+      - main
 
 jobs:
   build-and-push:
