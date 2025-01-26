@@ -20,7 +20,7 @@ jobs:
 
     - name: Build Rust Application
       run: |
-        cd rust-app
+        cd exercise_4/rust-app
         cargo build --release
 
     - name: Log in to DockerHub
