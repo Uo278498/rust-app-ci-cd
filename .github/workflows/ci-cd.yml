@@ -34,4 +34,4 @@ jobs:
 
 
     - name: Push Docker Image to DockerHub
-      run: docker push ${{ secrets.DOCKER_USERNAME }}/rust-app:latest -f exercise_4/Dockerfile .
+      run: docker push ${{ secrets.DOCKER_USERNAME }}/rust-app:latest
